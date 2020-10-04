@@ -8,6 +8,7 @@ For python3
 7. requests 
 8. pdftohtml
 9. shutil (python3 module)
+10.configuration
 
 Database Settings:
 Make a database on localhost named "authors_db".
